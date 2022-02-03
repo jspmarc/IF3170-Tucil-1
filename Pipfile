@@ -12,6 +12,7 @@ numpy = "*"
 scipy = "*"
 joblib = "*"
 threadpoolctl = "*"
+ipykernel = "*"
 
 [dev-packages]
 
