@@ -13,6 +13,8 @@ scipy = "*"
 joblib = "*"
 threadpoolctl = "*"
 ipykernel = "*"
+graphviz = "*"
+tabulate = "*"
 
 [dev-packages]
 
